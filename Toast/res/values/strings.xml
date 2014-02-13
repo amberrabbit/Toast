@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toast</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toast_disp_long">トーストの表示(Long)</string>
+    <string name="toast_disp_short">トーストの表示(Short)</string>
+
+</resources>
